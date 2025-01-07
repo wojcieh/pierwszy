@@ -1,0 +1,14 @@
+C:\Users\marcin\c#projekct\2TB\pierwszy\bin\Debug\net9.0\pierwszy.exe
+C:\Users\marcin\c#projekct\2TB\pierwszy\bin\Debug\net9.0\pierwszy.deps.json
+C:\Users\marcin\c#projekct\2TB\pierwszy\bin\Debug\net9.0\pierwszy.runtimeconfig.json
+C:\Users\marcin\c#projekct\2TB\pierwszy\bin\Debug\net9.0\pierwszy.dll
+C:\Users\marcin\c#projekct\2TB\pierwszy\bin\Debug\net9.0\pierwszy.pdb
+C:\Users\marcin\c#projekct\2TB\pierwszy\obj\Debug\net9.0\pierwszy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcin\c#projekct\2TB\pierwszy\obj\Debug\net9.0\pierwszy.AssemblyInfoInputs.cache
+C:\Users\marcin\c#projekct\2TB\pierwszy\obj\Debug\net9.0\pierwszy.AssemblyInfo.cs
+C:\Users\marcin\c#projekct\2TB\pierwszy\obj\Debug\net9.0\pierwszy.csproj.CoreCompileInputs.cache
+C:\Users\marcin\c#projekct\2TB\pierwszy\obj\Debug\net9.0\pierwszy.dll
+C:\Users\marcin\c#projekct\2TB\pierwszy\obj\Debug\net9.0\refint\pierwszy.dll
+C:\Users\marcin\c#projekct\2TB\pierwszy\obj\Debug\net9.0\pierwszy.pdb
+C:\Users\marcin\c#projekct\2TB\pierwszy\obj\Debug\net9.0\pierwszy.genruntimeconfig.cache
+C:\Users\marcin\c#projekct\2TB\pierwszy\obj\Debug\net9.0\ref\pierwszy.dll
